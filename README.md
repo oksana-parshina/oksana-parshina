@@ -1,4 +1,5 @@
-# Оксана Паршина
+# Бизнес-анализ/Анализ данных 
+- Оксана Паршина
 > Телефон:     89603219250
 > Email: oksana.parshina@mail.ru
 > Telegram: @oksana_parshina58
