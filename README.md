@@ -1,8 +1,8 @@
 # Бизнес-анализ/Анализ данных 
-- Оксана Паршина
-> Телефон:     89603219250
-> Email: oksana.parshina@mail.ru
-> Telegram: @oksana_parshina58
+Оксана Паршина
+- Телефон:     89603219250
+- Email: oksana.parshina@mail.ru
+- Telegram: @oksana_parshina58
 
 Изучаю бизнес-аналитику на курсе Skillbox (SQL, BPMN, Excel, Power BI, основы Python).
 В процессе обучения выполнила несколько учебных проектов: анализ продаж, построение дашборда, описание бизнес-процесса в нотации BPMN.
